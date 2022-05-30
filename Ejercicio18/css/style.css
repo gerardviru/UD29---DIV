@@ -1,0 +1,90 @@
+.sup{
+    position: relative;
+    border:2px solid rgb(33, 113, 189); 
+    width: 230px;
+    height: 100px;
+    left: 800px;
+    background-color: rgb(165, 222, 245);
+}
+
+#cielo{
+    position: absolute;
+    background-image:url(../img/f03.png);
+    background-size: contain;
+    width: 100%;
+    height: 40px;
+    top: 0;
+    border: 0;
+}
+
+#letras{
+    text-align: center;
+}
+
+#mario{
+    position: absolute;
+    background-image:url(../img/f02.png);
+    width: 100%;
+    height: 100px;
+    bottom:10px;
+}
+
+#suelo{
+    position:absolute;
+    background-image:url(../img/f01.png);
+    width: 100%;
+    bottom: 0;
+    height: 15px;
+}
+
+
+#letras2{
+    text-align: center;
+}
+.prueba{
+    position: relative;
+    border:4px solid red; 
+    width: 600px;
+    height: 500px;
+    top: 80px;
+    left: 800px;
+    background-color: rgb(165, 222, 245);
+}
+
+#cieloP{
+    position: absolute;
+    background-image:url(../img/f03.png);
+    background-size: contain;
+    width: 100%;
+    height: 40px;
+    top: 0;
+    border: 0;
+}
+
+#marioP{
+    position: absolute;
+    background-image:url(../img/f02.png);
+    width: 40%;
+    height: 100px;
+    bottom:10px;
+}
+
+#sueloP{
+    position:absolute;
+    background-image:url(../img/f01.png);
+    width: 100%;
+    bottom: 0;
+    height: 15px;
+}
+
+
+
+.inf{
+    position: relative;
+    border:2px solid rgb(33, 113, 189); 
+    width: 230px;
+    height: 100px;
+    top: 200px;
+    left: 800px;
+    background-color: rgb(165, 222, 245);
+}

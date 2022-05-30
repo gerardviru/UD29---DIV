@@ -1,0 +1,63 @@
+.cuerpo{
+    text-align: center;
+    font-size: 10px;
+}
+
+.tabla{
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+    border:1px solid black;
+    
+    
+}
+
+.celda1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: rgb(29, 211, 29);
+    border:1px solid rgb(228, 21, 21)
+}
+
+.celda2{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(73, 208, 226);
+    border:1px solid rgb(171, 11, 235);
+    width: 400px;
+}
+
+.celda3{
+    border:1px solid red;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.celda4{
+    border:1px solid red;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.celda5{
+    border:1px solid red;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.celda6{
+    border:1px solid rgb(171, 11, 235);
+    text-align: right;
+    padding-top: 40px;
+    background-color:orchid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.celda8{
+    border:1px solid red;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

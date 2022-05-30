@@ -1,0 +1,35 @@
+table, th, td {
+    border:1px solid rgb(53, 128, 214)
+  }
+
+.column1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(191, 252, 191);
+    background-color: darkgreen;
+}
+
+.column2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(3, 58, 3);
+    background-color: rgb(191, 252, 191);
+}
+
+.column3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(3, 58, 3);
+    background-color: rgb(191, 252, 191);;
+}
+
+.column4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(3, 58, 3);
+    background-color: rgb(116, 184, 116);
+}
+
+.precio{
+    text-align: center;
+}
+
+.actividad{
+    text-align: center;
+}

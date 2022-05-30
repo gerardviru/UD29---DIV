@@ -1,0 +1,168 @@
+.cuerpo{
+    background-image:url("/Ejercicio17/img/ac.jpg");
+    width: 800px;
+    height: 900px;
+}
+
+.A{
+    position: relative;
+    background-image: url("../img/back_mantel.jpg");
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    text-align: center;
+    left: 300px;
+    top:20px;
+}
+
+.B{
+    position: relative;
+    background-image: url("../img/back_mantel.jpg");
+    width: 150px;
+    height: 150px;
+    border:1px solid rgb(0, 0, 0);
+    text-align: center;
+    left: 730px;
+    bottom: 355px;
+}
+
+.B-1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    text-align: center;
+    left: 700px;
+    bottom: 180px;
+}
+
+.C{
+    position: relative;
+    bottom: 535px;
+    left: 1100px;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+}
+
+.D{
+    position: relative;
+    bottom: 735px;
+    left: 1500px;
+    width: 160px;
+    height: 160px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: white;
+    border:1px solid rgb(0, 0, 0);
+}
+
+.M1{
+    position: relative;
+    bottom: 585px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+}
+
+.B-2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    text-align: center;
+    left: 700px;
+    bottom:790px;
+    background-color: white;
+}
+
+.M2{
+    position: relative;
+    bottom: 970px;
+    left: 720px;
+    width: 160px;
+    height: 160px;
+}
+
+.B-3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    text-align: center;
+    left: 1100px;
+    bottom:1150px;
+    background-color: white;
+}
+
+.M3{
+    position: relative;
+    bottom: 1300px;
+    left: 1100px;
+    width: 200px;
+    height: 90px;
+    border:1px solid rgb(0, 0, 0);
+}
+
+.B-4{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    text-align: center;
+    left: 1500px;
+    bottom:1440px;
+    background-color: white;
+}
+
+.M4{
+    position: relative;
+    bottom: 1643px;
+    left: 1555px;
+    width: 90px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+}
+
+.U1{
+    position: relative;
+    bottom: 1500px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    background: linear-gradient(to left, rgb(57, 102, 48), rgb(162, 211, 105));
+}
+
+.U2{
+    position: relative;
+    bottom: 1700px;
+    left: 700px;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    background: linear-gradient(to top, rgb(109, 47, 22), rgb(211, 139, 105));
+}
+
+.U3{
+    position: relative;
+    bottom: 1900px;
+    left: 1110px;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    background: linear-gradient(to top, rgb(58, 90, 50), rgb(160, 223, 152));
+}
+
+.U4{
+    position: relative;
+    bottom: 2100px;
+    left: 1500px;
+    width: 200px;
+    height: 200px;
+    border:1px solid rgb(0, 0, 0);
+    background: linear-gradient(to top, rgba(58, 90, 50, 0.808), rgba(160, 223, 152, 0.322));
+}

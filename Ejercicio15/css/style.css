@@ -1,0 +1,22 @@
+.box{
+    position: relative;
+    left: 600px;
+}
+
+.index{
+    font-family:cursive;
+}
+
+.lista{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box1{
+    background-color: rgb(240, 240, 110);
+    width: 150px;
+}
+
+.box2{
+    background-color: rgb(224, 107, 107);
+    width: 150px;
+}

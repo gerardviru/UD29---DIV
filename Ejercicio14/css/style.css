@@ -1,0 +1,18 @@
+
+table, th, td {
+    border:1px solid rgb(0, 0, 0)
+  }
+
+.column1{
+    text-align: center;
+}
+
+.column2{
+    background-color: rgb(235, 235, 113);
+}
+
+.box{
+    position: relative;
+    bottom:400px;
+    left: 550px;
+}

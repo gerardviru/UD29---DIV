@@ -1,0 +1,89 @@
+table, th, td {
+    border:1px solid rgb(0, 0, 0)
+}
+
+.tabla{
+    position: relative;
+    left: 500px;
+}
+
+
+.celda1{
+    background-color: darkgreen;
+    color: red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 600px;
+    text-align: center;
+}
+
+.celda2{
+    text-align: center;
+    background-color:rgb(250, 207, 178);
+    color: rgb(197, 72, 26);
+}
+
+.celda3{
+    text-align: center;
+    background-color:rgb(250, 207, 178);
+    color: rgb(197, 72, 26);
+}
+
+.celda4{
+    text-align: center;
+    background-color:rgb(250, 207, 178);
+    color: rgb(197, 72, 26);
+}
+
+.celda5{
+    text-align: center;
+    background-color:rgb(235, 235, 145);
+    color: rgb(197, 72, 26);
+}
+
+.celda6{
+    text-align: center;
+    background-color:rgb(235, 235, 145);
+    color: rgb(197, 72, 26);
+}
+
+.celdaC{
+    text-align: center;
+    background-color:rgb(228, 228, 117);
+    color: rgb(197, 72, 26);
+}
+
+.celda7{
+    text-align: center;
+    background-color:rgb(228, 228, 117);
+    color: rgb(197, 72, 26);
+}
+
+.celda8{
+    text-align: center;
+    background-color:rgb(228, 228, 117);
+    color: rgb(197, 72, 26);
+}
+
+.celda9{
+    text-align: center;
+    background-color:rgb(228, 228, 117);
+    color: rgb(197, 72, 26);
+}
+
+.celda10{
+    text-align: center;
+    background-color:rgb(228, 228, 117);
+    color: rgb(197, 72, 26);
+}
+
+.celda11{
+    text-align: center;
+    background-color:rgb(228, 228, 117);
+    color: rgb(197, 72, 26);
+}
+
+.celda12{
+    text-align: center;
+    background-color:rgb(228, 228, 117);
+    color: rgb(197, 72, 26);
+}
